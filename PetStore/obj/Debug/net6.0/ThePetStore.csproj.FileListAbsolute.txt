@@ -1,0 +1,15 @@
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\bin\Debug\net6.0\ThePetStore.exe
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\bin\Debug\net6.0\ThePetStore.deps.json
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\bin\Debug\net6.0\ThePetStore.runtimeconfig.json
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\bin\Debug\net6.0\ThePetStore.dll
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\bin\Debug\net6.0\ThePetStore.pdb
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\obj\Debug\net6.0\ThePetStore.csproj.AssemblyReference.cache
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\obj\Debug\net6.0\ThePetStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\obj\Debug\net6.0\ThePetStore.AssemblyInfoInputs.cache
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\obj\Debug\net6.0\ThePetStore.AssemblyInfo.cs
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\obj\Debug\net6.0\ThePetStore.csproj.CoreCompileInputs.cache
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\obj\Debug\net6.0\ThePetStore.dll
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\obj\Debug\net6.0\refint\ThePetStore.dll
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\obj\Debug\net6.0\ThePetStore.pdb
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\obj\Debug\net6.0\ThePetStore.genruntimeconfig.cache
+C:\Users\darry\RiderProjects\ThePetStore\ThePetStore\obj\Debug\net6.0\ref\ThePetStore.dll
